@@ -35,14 +35,14 @@ source: http://ben.balter.com/2015/08/23/reflecting-on-the-mygov-ideals/
 
 ---
 
-# 5. プラットフォームを構築せよ
+# 5. プラットフォームをつくれ
 Government as a platform というけれども、ほとんどの技術の会社（たとえば Google, Apple, Microsoft）はプラットフォームである。
 
 プラットフォームを第一として、サイトやアプリを第二として構築を行え。さもなければ本末転倒の構築を行っていることになる。
 
 ---
 
-# 5. プラットフォームを構築せよ (Cnt'd)
+# 5. プラットフォームをつくれ (Cnt'd)
 Be lean, be modular, be decentralized. Expose APIs. Encourage reuse and collaboration through interoperability. Grow an ecosystem. Eat our own dog food.
 
 リーンであれ、モジュラーであれ、分散型であれ。APIを晒せ。相互運用性を通じて再利用と協働を推奨せよ。エコシステムを育てろ。ドッグフーディングしろ。
