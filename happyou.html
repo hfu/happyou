@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='utf-8'>
+<title>Presentation</title>
+<style>
+  body, h1, h2, h3 { font-family:  "游ゴシック", YuGothic, "メイリオ", Meiryo, sans-serif; }
+  td, th { border: solid; }
+</style>
+</head>
+<body>
+<script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
+<script>
+var sourceUrl = document.location.href.split('?')[1];
+if(!sourceUrl) sourceUrl = 'happyou.md';
+var slideshow = remark.create({sourceUrl: sourceUrl});
+</script>
+</body>
+</html>
