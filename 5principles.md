@@ -1,4 +1,6 @@
-# 政府向け改善プロジェクトのための5つのプリンシプル（抄訳＋変奏）
+# 政府での改善活動の5つのプリンシプル
+抄訳＋変奏版
+
 source: http://ben.balter.com/2015/08/23/reflecting-on-the-mygov-ideals/
 
 ---
