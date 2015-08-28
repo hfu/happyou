@@ -31,7 +31,7 @@ source: http://ben.balter.com/2015/08/23/reflecting-on-the-mygov-ideals/
 # 4. 聞こえてくるニーズではなく、実際のニーズに対応せよ
 最も音が大きい車輪の終身奴隷になるのはたやすい。
 
-ログ解析を用いて、実際の利用者をよく把握せよ。
+例えばログ解析をして、実際の利用者をよく把握せよ。
 
 ---
 
@@ -42,7 +42,7 @@ Government as a platform というけれども、ほとんどの技術の会社�
 
 ---
 
-# 5. プラットフォームを構築せよ Cnt'd
+# 5. プラットフォームを構築せよ (Cnt'd)
 Be lean, be modular, be decentralized. Expose APIs. Encourage reuse and collaboration through interoperability. Grow an ecosystem. Eat our own dog food.
 
 リーンであれ、モジュラーであれ、分散型であれ。APIを晒せ。相互運用性を通じて再利用と協働を推奨せよ。エコシステムを育てろ。ドッグフーディングしろ。
