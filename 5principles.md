@@ -1,4 +1,4 @@
-# 政府での改善活動の5つのプリンシプル
+# 政府業務改善の5プリンシプル
 抄訳＋変奏版
 
 source: http://ben.balter.com/2015/08/23/reflecting-on-the-mygov-ideals/
